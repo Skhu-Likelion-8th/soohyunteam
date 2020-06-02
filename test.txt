@@ -4,11 +4,9 @@
 
 빨리 끝내고 집가고싶다
 
-<<<<<<< HEAD
-ㅁㄴ
-=======
-오늘일기 끝
+asdasdasd
+
+asdasdasd
 
 
-수정했지롱
->>>>>>> 0103b724d80e5775d9c890ffd8f4ced91fa42fec
+asdasdasdasd
